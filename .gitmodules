@@ -1,0 +1,6 @@
+[submodule "wiki-js-test-1"]
+	path = wiki-js-test-1
+	url = https://github.com/artemka-debug/wiki-js-test-1
+[submodule "wiki-js-test"]
+	path = wiki-js-test
+	url = https://github.com/artemka-debug/wiki-js-test
